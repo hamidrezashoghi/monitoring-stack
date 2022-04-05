@@ -1,0 +1,2 @@
+sum(rate(node_cpu_seconds_total{mode="system"}[1m])) by (cpu) * 100
+

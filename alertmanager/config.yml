@@ -1,0 +1,11 @@
+route:
+    receiver: 'slack'
+
+receivers:
+    - name: 'slack'
+      slack_configs:
+          - send_resolved: false
+            text: "{{ .CommonAnnotations.description }}"
+            username: 'admin'
+            channel: '#alerts'
+            api_url: 'http://192.168.1.130:3001/hooks/j8HR5cgcnNyySMuRo/yWj7kXbuHbuLy7ZEG6Mkwbr9TG7uywsrcL45FTv4H8J8hCFQ'

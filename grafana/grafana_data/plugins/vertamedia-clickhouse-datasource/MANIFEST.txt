@@ -1,0 +1,45 @@
+
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA512
+
+{
+  "manifestVersion": "2.0.0",
+  "signatureType": "community",
+  "signedByOrg": "vertamedia",
+  "signedByOrgName": "Vertamedia",
+  "plugin": "vertamedia-clickhouse-datasource",
+  "version": "2.4.3",
+  "time": 1646294760154,
+  "keyId": "7e4d0c6a708866e7",
+  "files": {
+    "img/annotations.png": "09cc19df992fede5c4dd830f7b3c7a783702feced07ea9693d417ec127077b00",
+    "img/altinity_logo.svg": "ac91e3cd9163b1782615c3367d16581c84c16247b656d4625eeb6ffd9186cc5e",
+    "img/datasource.png": "8d6dcdddfad512abed8c251404f652383f63ad17bc5c7cbe3e67ad9e6fa0327f",
+    "img/clickhouse_logo.svg": "111c2048c9bad4a11b0273cf17839696d98968c04cdcc5ea0716bdc973f2e8e4",
+    "img/query_editor.png": "b8d50f644d413b15aaf0d7b71fdfa4423f1a045761ec368b19a15e3d1aaf9308",
+    "LICENSE": "a434fc6dd97d5c425c6edbeff0276afd60ab5fffab3ed2c563f95a389502d074",
+    "module.js": "b78b989f22e8688d20e6fe34821423d9c3fc8c051e3b378bd99dce2a8431cbab",
+    "vertamedia-clickhouse-plugin_darwin_amd64": "0697ee90639a6a0c42859c0c6c2ad5a09ca1de642a489146e13c5cdb8c90d511",
+    "vertamedia-clickhouse-plugin_linux_amd64": "d145923b04a0eb55db01db02473ed91d53666d112dbe5a12d8abc8b30535a335",
+    "vertamedia-clickhouse-plugin_windows_amd64.exe": "a11b19e69c983e967a955b134cb8550953eb68f4be7880b596fbb214b5110429",
+    "plugin.json": "bb7881f10dca3d5a78ca9e03cf8cf412e38466914bdb1d02f4a0a7b24b767722",
+    "vertamedia-clickhouse-plugin_linux_arm64": "a9df6f7d502a43916140087585d17c08720e6e3c4dbe2fe55bf28c202f49595a",
+    "vertamedia-clickhouse-plugin_darwin_arm64": "353a561723dc98308e74823c19018a43cf518ffbb6a62276fda8c73c4b824db4",
+    "module.js.map": "71c9985b78f6796875bc6d9acba2180fd497d4ce802b0abcaf3265bfb9509fc5",
+    "partials/query.editor.html": "b013c5f8547fd5f7e4723c21b274b27fb652214a78ee2bec95a31ff99f8c2b76",
+    "partials/config.html": "51ba130304c63c1a00590a9dc94c8351ff6277e4cf695720de57bff87aeec744",
+    "partials/annotations.editor.html": "14d2d5add7f13c7c722e33bbc53ef83750fb624e5f7d6efee4a9568addc2ab78",
+    "README.md": "7da142054a70b77bfef73d08292ae6fcaa7bfc4f731e67949a28ef8be45b6140"
+  }
+}
+-----BEGIN PGP SIGNATURE-----
+Version: OpenPGP.js v4.10.10
+Comment: https://openpgpjs.org
+
+wrgEARMKAAYFAmIgdugAIQkQfk0ManCIZucWIQTzOyW2kQdOhGNlcPN+TQxq
+cIhm59bUAgd9OI/YEA6TDe68argvc/9ScYMq1UTffKKXupe3FO+e4SRBKKn8
+tLVFPU6zEhIlQ+SS9algVDxQKiYQR7NobpRT1gIJAdiPmundrS+AmChDNK24
+94Dj0TdY/n/H3nunq9gZGHvKCMc1okfsxq7gg6CUlc3P+eqRht2rbxxQdRA+
+OfLokSn/
+=6v/q
+-----END PGP SIGNATURE-----
